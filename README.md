@@ -5,3 +5,5 @@ This is from a Kaggle competition. It is a part of Kaggle's playground series.
 The data is synthetic and for competition purposes.
 
 There a few features and primarily a simple regression task.
+
+The data is under the Apache 2.0 license.
