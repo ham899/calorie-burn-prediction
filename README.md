@@ -7,3 +7,5 @@ The data is synthetic and for competition purposes.
 There a few features and primarily a simple regression task.
 
 The data is under the Apache 2.0 license.
+
+The competition submission date was May 31, 2025.
