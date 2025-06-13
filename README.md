@@ -32,7 +32,7 @@ The final ensemble model submission achieved an **RMSLE score of 0.05955**, plac
 
 ## Requirements
 
-The following packages must be installed for this project:
+The following packages need to be installed:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scipy scikit-learn xgboost
