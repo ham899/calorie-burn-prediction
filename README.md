@@ -4,6 +4,13 @@ This project was developed for a Kaggle Playground Series competition. The objec
 
 ---
 
+## Data
+The data included in this repository is the **original dataset** from which the competition data was synthetically derived.  
+This dataset is licensed under **CC0: Public Domain**.
+
+---
+
+
 ## Project Summary
 
 I explored multiple machine learning models — including **Random Forest**, **XGBoost**, and **MLPRegressor** — and ultimately built an **ensemble model** using `VotingRegressor` that outperformed all individual models.
