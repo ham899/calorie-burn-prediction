@@ -1,13 +1,38 @@
-# calorie-burn-prediction
+# Calorie Burn Prediction
 
-This is from a Kaggle competition. It is a part of Kaggle's playground series.
+This project was developed for a Kaggle Playground Series competition. The objective was to predict the number of calories burned during physical activity using physiological features. The dataset is synthetic and intended for competition use only. The competition closed on **May 31, 2025**, and the data is licensed under **Apache 2.0**.
 
-The data is synthetic and for competition purposes.
+---
 
-There a few features and primarily a simple regression task.
+## Project Summary
 
-The data is under the Apache 2.0 license.
+I explored multiple machine learning models — including **Random Forest**, **XGBoost**, and **MLPRegressor** — and ultimately built an **ensemble model** using `VotingRegressor` that outperformed all individual models.
 
-The competition submission date was May 31, 2025.
+Project stages:
+- **Exploratory Data Analysis** (see `Supplementary Notebooks/Calories_Burned_Exploration.ipynb`)
+- **Feature Engineering** (BMI, relative intensity, and interaction terms)
+- **Outlier removal**
+- **Hyperparameter Tuning** using `GridSearchCV`
+- **Model Validation** and **Comparison**
+- **Final Ensemble Model Training and Prediction**
 
-These packages are needed: pip3 install numpy pandas matplotlib seaborn scipy scikit-learn xgboost --upgrade
+The final ensemble model submission achieved an **RMSLE score of 0.05955**, placing me in the top 40% in the competition.
+
+---
+
+## Notebooks
+- `Notebooks/Calories_Burned_Ensemble.ipynb` (**Main notebook** – final model and submission)
+- `Notebooks/Supplementary Notebooks/Calories_Burned_XGBoost.ipynb` (Fine-tuned XGBoost model - secondary model)
+- `Notebooks/Supplementary Notebooks/Calories_Burned_Exploration.ipynb` (Initial EDA and early modelling)
+
+## Key Lessons
+- **Parallelization** - Learned how to speed up modeling (especially tuning) by parallelizing workloads
+- **Memory Management** - Learned to choose appropriate sample sizes when using multiple cores to avoid excessive RAM usage
+- **Hyperparameter Tuning** - Learned techniques for hyperparameter tuning to improve model performance
+
+## Requirements
+
+The following packages must be installed for this project:
+
+```bash
+pip install numpy pandas matplotlib seaborn scipy scikit-learn xgboost
