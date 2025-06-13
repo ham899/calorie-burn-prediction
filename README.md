@@ -10,4 +10,4 @@ The data is under the Apache 2.0 license.
 
 The competition submission date was May 31, 2025.
 
-These packages are needed: pip3 install numpy pandas matplotlib seaborn scipy scikit-learn --upgrade
+These packages are needed: pip3 install numpy pandas matplotlib seaborn scipy scikit-learn xgboost --upgrade
