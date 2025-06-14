@@ -5,8 +5,7 @@ This project was developed for a Kaggle Playground Series competition. The objec
 ---
 
 ## Data
-This repository includes the **original dataset** from which the competition data was synthetically generated.
-This dataset is licensed under **CC0: Public Domain**.
+This repository includes the **original dataset** from which the competition data was synthetically generated; This dataset is licensed under **CC0: Public Domain**.
 
 The official competition dataset can be downloaded from Kaggle: [Playground Series - Season 5, Episode 5](https://www.kaggle.com/c/playground-series-s5e5/data)
 
