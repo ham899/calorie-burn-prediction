@@ -8,9 +8,9 @@ This project was developed for a Kaggle Playground Series competition. The objec
 This repository includes the **original dataset** from which the competition data was synthetically generated.
 This dataset is licensed under **CC0: Public Domain**.
 
-The official competition dataset can be downloaded from Kaggle: [Playground Series - Season 5, Episode 5](https://www.kaggle.com/c/playground-series-s5e5)
+The official competition dataset can be downloaded from Kaggle: [Playground Series - Season 5, Episode 5](https://www.kaggle.com/c/playground-series-s5e5/data)
 
-To run the notebooks as-is, create a folder named `/Data` and place the downloaded datasets there.
+To run the notebooks as-is, create a folder named `/Data` and put the downloaded datasets there.
 
 ---
 
