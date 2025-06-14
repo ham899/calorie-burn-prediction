@@ -29,8 +29,8 @@ The final ensemble model submission achieved an **RMSLE score of 0.05955**, plac
 
 ## Notebooks
 - `Notebooks/Calories_Burned_Ensemble.ipynb` (**Main notebook** – final model and submission)
-- `Notebooks/Supplementary Notebooks/Calories_Burned_XGBoost.ipynb` (Fine-tuned XGBoost model - secondary model)
-- `Notebooks/Supplementary Notebooks/Calories_Burned_Exploration.ipynb` (Initial EDA and early modelling)
+- `Notebooks/Supplementary Work/Calories_Burned_XGBoost.ipynb` (Fine-tuned XGBoost model - secondary model)
+- `Notebooks/Supplementary Work/Calories_Burned_Exploration.ipynb` (Initial EDA and early modelling)
 
 ## Key Lessons
 - **Parallelization** - Learned how to speed up modeling (especially tuning) by parallelizing workloads
