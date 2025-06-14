@@ -10,7 +10,7 @@ This dataset is licensed under **CC0: Public Domain**.
 
 The official competition dataset can be downloaded from Kaggle: [Playground Series - Season 5, Episode 5](https://www.kaggle.com/c/playground-series-s5e5)
 
-To run the notebooks as-is, create a folder named `/data` and place the downloaded dataset files there.
+To run the notebooks as-is, create a folder named `/Data` and place the downloaded dataset files there.
 
 ---
 
