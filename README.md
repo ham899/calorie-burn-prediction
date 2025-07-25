@@ -26,7 +26,7 @@ Project stages:
 - **Model Validation** and **Comparison**
 - **Final Ensemble Model Training and Prediction**
 
-The final ensemble model submission achieved an **RMSLE score of 0.05955**, placing me in the top 40% in the competition.
+The final ensemble model submission achieved an **RMSLE score of 0.05955**, placing me 1,642nd out of 4,316 participants in the competition.
 
 ---
 
