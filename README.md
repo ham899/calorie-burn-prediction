@@ -21,7 +21,7 @@ I explored multiple machine learning models — including **Random Forest**, **X
 Project stages:
 - **Exploratory Data Analysis** (see `Supplementary Notebooks/Calories_Burned_Exploration.ipynb`)
 - **Feature Engineering** (BMI, relative intensity, and interaction terms)
-- **Outlier removal**
+- **Outlier Removal**
 - **Hyperparameter Tuning** using `GridSearchCV`
 - **Model Validation** and **Comparison**
 - **Final Ensemble Model Training and Prediction**
